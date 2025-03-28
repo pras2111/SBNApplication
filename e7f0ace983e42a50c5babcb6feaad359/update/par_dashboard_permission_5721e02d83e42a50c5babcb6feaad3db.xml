@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_permission">
+    <par_dashboard_permission action="INSERT_OR_UPDATE">
+        <can_read>true</can_read>
+        <can_share>false</can_share>
+        <can_write>false</can_write>
+        <dashboard display_value="TEST AS CSM Requests">65216ced83642a50c5babcb6feaad3da</dashboard>
+        <group/>
+        <owner>false</owner>
+        <role display_value="x_682791_test_as_0.agent" name="x_682791_test_as_0.agent">1501ece983e42a50c5babcb6feaad35f</role>
+        <sys_class_name>par_dashboard_permission</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-27 11:37:12</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5721e02d83e42a50c5babcb6feaad3db</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>65216ced83642a50c5babcb6feaad3da</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="TEST AS CSM" source="x_682791_test_as_0">e7f0ace983e42a50c5babcb6feaad359</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TEST AS CSM">e7f0ace983e42a50c5babcb6feaad359</sys_scope>
+        <sys_update_name>par_dashboard_permission_5721e02d83e42a50c5babcb6feaad3db</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-27 11:37:12</sys_updated_on>
+        <user/>
+    </par_dashboard_permission>
+</record_update>

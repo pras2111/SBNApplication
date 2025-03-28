@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="DELETE">
+        <canvas display_value="">fd21242d83e42a50c5babcb6feaad3d2</canvas>
+        <component display_value="List - Simple">2b1c080881e05dc63b917044290b233f</component>
+        <component_props>{"table":"x_682791_test_as_0_request","fixedQuery":"active=true","listTitle":"All Active Tasks","columns":"","query":"active=true","groupByField":"","hideViewAll":false,"hideHighlightedValues":false,"highlightedValueConfigId":"","hideHighlightContent":false,"highlightContent":{"patterns":[],"color":""},"hideLinks":false,"nrlLandmark":true,"wordWrap":false,"overrideWordWrapUserPref":false,"maxCharLimit":4000,"hideEmptyStateImage":false,"hidePersonalization":false,"hideDotwalk":false,"hideColumnReorder":false,"hideRowSelector":false,"hideColumnGrouping":false,"hideColumnResizing":false,"hideColumnFiltering":false,"hideColumnSorting":false,"hideHeader":false,"hideTitle":false,"hideTitleRowCount":false,"hideLastRefreshedText":false,"hideRefreshButton":false,"hideInlineEditing":false,"refreshRequested":""}</component_props>
+        <h>20</h>
+        <name/>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-27 11:37:07</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f921242d83e42a50c5babcb6feaad3f5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="TEST AS CSM" source="x_682791_test_as_0">e7f0ace983e42a50c5babcb6feaad359</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TEST AS CSM">e7f0ace983e42a50c5babcb6feaad359</sys_scope>
+        <sys_update_name>par_dashboard_widget_f921242d83e42a50c5babcb6feaad3f5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-27 11:37:07</sys_updated_on>
+        <visualization/>
+        <w>48</w>
+        <widget_props/>
+        <x>0</x>
+        <y>15</y>
+    </par_dashboard_widget>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="TEST AS CSM">e7f0ace983e42a50c5babcb6feaad359</application>
+        <file_path/>
+        <instance_id>37ad7288dba106d82f082a59139619a3</instance_id>
+        <instance_name>dev259272</instance_name>
+        <name>par_dashboard_widget_f921242d83e42a50c5babcb6feaad3f5</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget"><par_dashboard_widget action="INSERT_OR_UPDATE"><canvas display_value="">fd21242d83e42a50c5babcb6feaad3d2</canvas><component display_value="List - Simple">2b1c080881e05dc63b917044290b233f</component><component_props>{"table":"x_682791_test_as_0_request","fixedQuery":"active=true","listTitle":"All Active Tasks","columns":"","query":"active=true","groupByField":"","hideViewAll":false,"hideHighlightedValues":false,"highlightedValueConfigId":"","hideHighlightContent":false,"highlightContent":{"patterns":[],"color":""},"hideLinks":false,"nrlLandmark":true,"wordWrap":false,"overrideWordWrapUserPref":false,"maxCharLimit":4000,"hideEmptyStateImage":false,"hidePersonalization":false,"hideDotwalk":false,"hideColumnReorder":false,"hideRowSelector":false,"hideColumnGrouping":false,"hideColumnResizing":false,"hideColumnFiltering":false,"hideColumnSorting":false,"hideHeader":false,"hideTitle":false,"hideTitleRowCount":false,"hideLastRefreshedText":false,"hideRefreshButton":false,"hideInlineEditing":false,"refreshRequested":""}</component_props><h>20</h><name/><stored_component/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-03-27 11:37:07</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>f921242d83e42a50c5babcb6feaad3f5</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="TEST AS CSM" source="x_682791_test_as_0">e7f0ace983e42a50c5babcb6feaad359</sys_package><sys_policy/><sys_scope display_value="TEST AS CSM">e7f0ace983e42a50c5babcb6feaad359</sys_scope><sys_update_name>par_dashboard_widget_f921242d83e42a50c5babcb6feaad3f5</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-03-27 11:37:07</sys_updated_on><visualization/><w>48</w><widget_props/><x>0</x><y>15</y></par_dashboard_widget></record_update>]]></payload>
+        <payload_hash>1247122269</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>a7f0ace983e42a50c5babcb6feaad35c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-27 11:37:07</sys_created_on>
+        <sys_id>f521242d83e42a50c5babcb6feaad3f7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>195d76445a90000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-27 11:37:07</sys_updated_on>
+        <type>PAR Dashboard Widget</type>
+        <update_guid>f921242d01e42a50ff2aec976798a1f6</update_guid>
+        <update_guid_history>f921242d01e42a50ff2aec976798a1f6:1247122269</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">4221642d83e42a50c5babcb6feaad310</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-27 11:37:08</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_widget">par_dashboard_widget</sys_db_object>
+        <sys_id>704c697611b54d9bad361a2d39b01e41</sys_id>
+        <sys_metadata>f921242d83e42a50c5babcb6feaad3f5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="TEST AS CSM" source="x_682791_test_as_0">e7f0ace983e42a50c5babcb6feaad359</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="TEST AS CSM">e7f0ace983e42a50c5babcb6feaad359</sys_scope>
+        <sys_scope_delete display_value="">4838d0b98966432095c6217d0becb100</sys_scope_delete>
+        <sys_update_name>par_dashboard_widget_f921242d83e42a50c5babcb6feaad3f5</sys_update_name>
+        <sys_update_version display_value="par_dashboard_widget_f921242d83e42a50c5babcb6feaad3f5">f521242d83e42a50c5babcb6feaad3f7</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-27 11:37:08</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
