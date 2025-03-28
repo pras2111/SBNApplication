@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_list">
+    <sys_ux_applicability_m2m_list action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applicability display_value="TEST AS CSM Audience">7d01ece983e42a50c5babcb6feaad3f7</applicability>
+        <list display_value="Open">f501ece983e42a50c5babcb6feaad3fb</list>
+        <order>0</order>
+        <sys_class_name>sys_ux_applicability_m2m_list</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-27 11:36:35</sys_created_on>
+        <sys_id>8a01202d83e42a50c5babcb6feaad301</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="TEST AS CSM" source="x_682791_test_as_0">e7f0ace983e42a50c5babcb6feaad359</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TEST AS CSM">e7f0ace983e42a50c5babcb6feaad359</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_list_8a01202d83e42a50c5babcb6feaad301</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-27 11:36:35</sys_updated_on>
+    </sys_ux_applicability_m2m_list>
+</record_update>
